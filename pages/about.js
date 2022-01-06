@@ -14,6 +14,7 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head> */}
       <Head>
+      <title>Zingnew | chuyển tiền</title>
 
       <meta property="fb:app_id" content="2034212100232051"></meta>
 
