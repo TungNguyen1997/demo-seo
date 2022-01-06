@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-      <Head>
       <title>Zingnew | chuyển tiền</title>
 
       <meta property="fb:app_id" content="2034212100232051"></meta>
@@ -28,7 +27,6 @@ export default function Home() {
       <meta property="og:title" content="Cần hướng đến xuất khẩu chính ngạch"></meta>
 
       <meta property="og:description" content="Doanh nghiệp cho rằng phải hạn chế xuất khẩu tiểu ngạch để hướng đến chính ngạch."></meta>
-      </Head>
       </Head>
 
       <main className={styles.main}>
